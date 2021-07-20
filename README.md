@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JinwooKing
-- 👀 I’m interested in ... C#, MSSQL, Javascript
+- 👀 I’m interested in ... C#, MSSQL and.. Javascript
 - 🌱 I’m currently learning ... Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... wlsdn9489@gmail.com
